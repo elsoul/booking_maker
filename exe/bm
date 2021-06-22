@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require "booking_maker"
+puts "booking maker!"
